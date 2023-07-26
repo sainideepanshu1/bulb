@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+button{
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+}
+#image{
+    width: 250px;
+}
